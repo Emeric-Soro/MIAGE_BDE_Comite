@@ -6,7 +6,7 @@
             { image: 'img/academie.png', title: 'Comité Académie', description: 'Soutien pédagogique : tutorat, ateliers, conférences et amélioration des parcours académiques.', link: 'https://chat.whatsapp.com/GAfeWSBmM6HBus9fZJLZcO?mode=ems_copy_t' },
             { image: 'img/culture_sport.png', title: 'Comité Culture et Sport', description: 'Coordonne événements culturels, compétitions sportives et activités de loisirs pour la communauté étudiante.', link: 'https://chat.whatsapp.com/LAyx32JVGK68OxtN28ep3s' },
             { image: 'img/logistique_evenementiel.png', title: 'Comité Logistique et Evénementiel', description: 'Gère la logistique des événements : matériel, lieux, planning et coordination sur le terrain.', link: 'https://chat.whatsapp.com/Bf7uh9jPes91zaVobFxj4Z' },
-            { image: 'img/relation_exterieures.png', title: 'Comité Relation Extérieures', description: 'Développement des partenariats, relations entreprises, sponsors et opportunités d\'échanges externes.', link: 'https://chat.whatsapp.com/ET66bWeSUOA2dc8LJsKWDm' },
+            { image: 'img/relation_exterieures.png', title: 'Comité Relations Extérieures', description: 'Développement des partenariats, relations entreprises, sponsors et opportunités d\'échanges externes.', link: 'https://chat.whatsapp.com/ET66bWeSUOA2dc8LJsKWDm' },
         ];
 
         // Effet de frappe pour le titre
